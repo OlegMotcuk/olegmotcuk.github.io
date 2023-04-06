@@ -19,7 +19,7 @@
   <h2>Языки</h2>
   <ul>
     <li>Русский (родной)</li>
-    <li>Английский ()</li>
+    <li>Английский (A1+)</li>
   </ul>
 </div>
 <h1>My Resume</h1>
@@ -37,7 +37,7 @@
   <h2>Languages</h2>
   <ul>
     <li>Russian (native)</li>
-    <li>English ()</li>
+    <li>English (A1+)</li>
   </ul>
 </div>
 </body>
