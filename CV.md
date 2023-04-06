@@ -28,7 +28,7 @@
   <ul>
     <li>Email: godlenivets@yandex.by</li>
     <li>Phone: +375 (29) 265 12 31</li>
-    <li>Address: Pinsk, ul. Pushkin</li>
+    <li>Address: Pinsk, ul. Pushkin 4</li>
   </ul>
   <h2>Education</h2>
   <ul>
