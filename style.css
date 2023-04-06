@@ -59,23 +59,3 @@ em {
 .languages {
   font-style: italic;
 }
-
-.job-title {
-  font-size: 24px;
-  font-weight: bold;
-  margin-top: 15px;
-}
-
-.job-dates {
-  font-size: 18px;
-  color: #666;
-  margin-bottom: 10px;
-}
-
-.job-description {
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-
-.job-description li {
-  margin-bottom: 5px;
