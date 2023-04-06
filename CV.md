@@ -16,10 +16,6 @@
   <ul>
     <li>Полесский Государственный Университет, 2020-2024</li>
   </ul>
-  <h2>Опыт работы</h2>
-  
- <h2>Профессиональные навыки</h2>
-  
   <h2>Языки</h2>
   <ul>
     <li>Русский (родной)</li>
@@ -38,10 +34,6 @@
   <ul>
     <li>Polissya State University, 2020-2024</li>
   </ul>
-  <h2>Work Experience</h2>
-  
- <h2>Professional Skills</h2>
- 
   <h2>Languages</h2>
   <ul>
     <li>Russian (native)</li>
