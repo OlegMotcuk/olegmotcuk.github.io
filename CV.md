@@ -2,11 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>My Resume</title>
-<link rel="stylesheet" href="styles.css">
-  <style>
-   
-  </style>
 </head>
 <body>
   <h1>Моё Резюме</h1>
